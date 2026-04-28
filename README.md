@@ -129,3 +129,15 @@ For Looker Studio, import the `.csv` files as data sources and recreate the tabl
 
 To access the dashboard in Looker Studio, [click here](https://datastudio.google.com/s/uR6-WI0revQ
 )
+
+---
+
+## Dashboard Preview
+
+**Sales Overview**
+
+![First Page](/screenshots/sales_overview.png)
+
+**Support Overview**
+
+![Second Page](/screenshots/support_overview.png)
